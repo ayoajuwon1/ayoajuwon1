@@ -5,7 +5,7 @@
 
 #
 
-I am product leader with about 7+ years of experience. I build production-grade data, analytics, and AI systems used in regulated, high-stakes environments. 
+I am a product leader with about 7+ years of experience. I build production-grade data, analytics, and AI systems used in regulated, high-stakes environments. 
 My work focuses on applied AI, analytics platforms, and ML-enabled decision systems across healthcare, fintech, and infrastructure. I ship systems that move revenue, reduce risk, and scale under compliance constraints. Pretty hands-on  on real code.
 
 #
