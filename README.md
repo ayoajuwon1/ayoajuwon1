@@ -1,6 +1,6 @@
 # 👋🏽 Hi, I’m Ayo
 
-<br> – Research Articles: [Google Scholar](https://scholar.google.com/citations?user=_zkfSG8AAAAJ&hl=en&oi=ao), [LinkedIn](https://www.linkedin.com/in/ayodejiajuwon/)
+<br> – Research Articles: [Google Scholar](https://scholar.google.com/citations?user=_zkfSG8AAAAJ&hl=en&oi=ao)
 <br> – Analytics & Applied AI @ Judi Health
 
 #
