@@ -1,33 +1,42 @@
 # 👋🏽 Hi, I’m Ayo
 
-<br> – Research Articles: [Google Scholar](https://scholar.google.com/citations?user=_zkfSG8AAAAJ&hl=en&oi=ao)
-<br> – Analytics & Applied AI @ Judi Health
+# Ayo Ajuwon
 
-#
+**Product leader. Builder. 7+ years shipping production AI, data, and analytics systems in regulated industries.**
 
-I am a product leader with about 7+ years of experience. I build production-grade data, analytics, and AI systems used in regulated, high-stakes environments. 
-My work focuses on applied AI, analytics platforms, and ML-enabled decision systems across healthcare, fintech, and infrastructure. I ship systems that move revenue, reduce risk, and scale under compliance constraints. Pretty hands-on  on real code.
+I build the infrastructure layer between messy real-world operations and intelligent software. My work sits at the intersection of applied AI, analytics platforms, and product execution in healthcare, fintech, and payments.
 
-#
+Two 6-figure exits, one failed startup. One patent. Teams scaled to 67 across engineering, design, data, and ops.
 
-📥 Currently focused on:
-<br> – Applied AI & ML systems: LLM apps, Agents, RAG pipelines, retrieval systems, evaluation, and monitoring
-<br> – Analytics platforms: Multi-tenant analytics, BI products, embedded dashboards, data contracts
-<br> – Data infrastructure: Snowflake, dbt, SQL modeling, event telemetry, ELT pipelines
-<br> – Product execution: Zero-to-one builds, monetization, GTM, stakeholder alignment
+---
 
-#
+### What I Build
 
-🏅 Highlights
-<br> – 1 patent, Two 6-figure exits 
-<br> – Scaled teams up to 67 people across engineering, design, data, and ops
+**Applied AI & ML Systems** · LLM applications, AI agents, RAG pipelines, retrieval systems, evaluation frameworks, production monitoring
 
-#
+**Analytics & Data Platforms** · Multi-tenant analytics, embedded dashboards, BI products, data contracts, event telemetry
 
-💻 Techstack
-<br> – Python,SQL, Snowflake, dbt, LLMs, RAG, Langchain, MLflow, AWS, Tableau, Segment, Mixpanel....
+**Infrastructure** · Snowflake, dbt, SQL modeling, ELT pipelines, AWS, MLflow
 
-#
+**Product** · Zero-to-one builds in regulated environments, monetization, GTM, stakeholder alignment under compliance constraints
 
-Pet Projects 
-<br> – AI Eval - https://openevalops.vercel.app/ 
+---
+
+### Currently
+
+📍 New York
+🎓 MBA @ Columbia Business School (Data Analytics & AI)
+📄 [Google Scholar](https://scholar.google.com)
+
+---
+
+### Technical
+
+I spec, prototype, and ship. Codex/Claude for prototyping and data work. SQL and dbt for analytics infrastructure. LLMs, RAG, and LangChain for AI systems. Snowflake and AWS in production. I read code, write code when it's the fastest path, and review PRs when it matters.
+
+---
+
+### Side Projects
+
+**AI Eval** · Evaluation framework for LLM outputs → [openevalops.vercel.app](https://openevalops.vercel.app)
+**Risk Monitor** . Real Estate Risk Monitor → [property-risk-monitor.vercel.app](https://property-risk-monitor.vercel.app/)
