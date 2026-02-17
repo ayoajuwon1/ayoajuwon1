@@ -39,4 +39,5 @@ I spec, prototype, and ship. Codex/Claude for prototyping and data work. SQL and
 ### Side Projects
 
 **AI Eval** · Evaluation framework for LLM outputs → [openevalops.vercel.app](https://openevalops.vercel.app)
+
 **Risk Monitor** . Real Estate Risk Monitor → [property-risk-monitor.vercel.app](https://property-risk-monitor.vercel.app/)
