@@ -1,7 +1,5 @@
 # 👋🏽 Hi, I’m Ayo
 
-# Ayo Ajuwon
-
 **Product leader. Builder. 7+ years shipping production AI, data, and analytics systems in regulated industries.**
 
 I build the infrastructure layer between messy real-world operations and intelligent software. My work sits at the intersection of applied AI, analytics platforms, and product execution in healthcare, fintech, and payments.
