@@ -26,3 +26,8 @@ My work focuses on applied AI, analytics platforms, and ML-enabled decision syst
 
 💻 Techstack
 <br> – Python,SQL, Snowflake, dbt, LLMs, RAG, Langchain, MLflow, AWS, Tableau, Segment, Mixpanel....
+
+#
+
+Pet Projects 
+<br> – AI Eval - https://openevalops.vercel.app/ 
