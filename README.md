@@ -15,7 +15,7 @@ Two 6-figure exits, one failed startup. One patent. Teams scaled to 67 across en
 #### Currently
 - 📍 New York
 - 🎓 MBA @ Columbia Business School (Data Analytics & AI)
-- 📄 [Google Scholar](https://scholar.google.com)
+- 📄 [Google Scholar]([https://scholar.google.com](https://scholar.google.com/citations?user=_zkfSG8AAAAJ&hl=en))
 
 #
 #### Technical
