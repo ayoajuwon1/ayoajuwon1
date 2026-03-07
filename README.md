@@ -12,12 +12,6 @@ Two 6-figure exits, one failed startup. One patent. Teams scaled to 67 across en
 **Product** · Zero-to-one builds in regulated environments, monetization, GTM, stakeholder alignment under compliance constraints
 
 #
-#### Currently
-- 📍 New York
-- 🎓 MBA @ Columbia Business School (Data Analytics & AI)
-- 📄 [Google Scholar]([https://scholar.google.com](https://scholar.google.com/citations?user=_zkfSG8AAAAJ&hl=en))
-
-#
 #### Technical
 I spec, prototype, and ship. Codex/Claude for prototyping and data work. SQL and dbt for analytics infrastructure. LLMs, RAG, and LangChain for AI systems. Snowflake and AWS in production. I read code, write code when it's the fastest path, and review PRs when it matters.
 
